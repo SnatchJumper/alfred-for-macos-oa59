@@ -1,4 +1,4 @@
-#  
+#  Alfred for macOS professional Plugin: export to PDF & real-time editing is the best Alfred for macOS plugin, featuring export to PDF and real-time editing. Safe, efficient, and
 
 
 
